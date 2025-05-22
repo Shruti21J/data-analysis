@@ -2,6 +2,7 @@
 Projects involving data cleaning in SQL, Excel, and data visualizations in Tableau and Power BI.
 
 📌 Overview
+
 This project focuses on cleaning and preparing a dataset containing information about tech layoffs during the COVID-19 pandemic. The raw data included inconsistencies, null values, and irrelevant columns that needed to be addressed for meaningful analysis. Using SQL, I transformed this unstructured data into a clean, analysis-ready format.
 
 🛠️ Skills & Tools Used
